@@ -45,7 +45,7 @@ public class Rectangle {
 	public boolean equals(Object obj) {
 		Rectangle r = ((Rectangle)obj);
 		
-		if(this.height == r.height && this.width == r.height) {
+		if(this.height == r.height && this.width == r.width) {
 			return true;
 		} else {
 			return false;
