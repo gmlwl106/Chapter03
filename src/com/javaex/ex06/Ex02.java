@@ -39,5 +39,6 @@ public class Ex02 {
 		char result03 = str.charAt(8); //글자 1개 지정
 		System.out.println(result03);
 		
+		
 	}
 }
